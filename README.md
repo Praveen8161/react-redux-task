@@ -15,4 +15,4 @@
 ## Run Command
 `npm run dev`
 
-- [LIVE SITE](https://prismatic-bublanina-64628e.netlify.app/)
+- [LIVE SITE](https://glistening-custard-e0bd2d.netlify.app/)
