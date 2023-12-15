@@ -3,7 +3,7 @@
 
 ## Languages Used
 - React+Vite
-- Tailwind Css(For Styling)
+- Tailwind Css(Styling)
 - React Redux-Toolkit
 
 ## How it Works
