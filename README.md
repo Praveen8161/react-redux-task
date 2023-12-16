@@ -1,4 +1,4 @@
-# React Context Task
+# React Redux Task
 - Cart Application using React Redux-Toolkit
 
 ## Languages Used
