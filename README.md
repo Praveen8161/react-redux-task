@@ -1,9 +1,9 @@
-# React Context Task
+# React Redux Task
 - Cart Application using React Redux-Toolkit
 
 ## Languages Used
 - React+Vite
-- Tailwind Css(For Styling)
+- Tailwind Css(Styling)
 - React Redux-Toolkit
 
 ## How it Works
@@ -15,4 +15,4 @@
 ## Run Command
 `npm run dev`
 
-- [LIVE SITE](https://glistening-custard-e0bd2d.netlify.app/)
+- [LIVE SITE](https://cart-redux-8161.netlify.app/)
